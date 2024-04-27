@@ -1,7 +1,7 @@
 ---
 title: About the GitHub Enterprise API
 intro: '{% data variables.product.product_name %} supports REST and GraphQL APIs.'
-redirect_from:
+redirect_from
   - /enterprise/admin/installation/about-the-github-enterprise-server-api
   - /enterprise/admin/articles/about-the-enterprise-api
   - /enterprise/admin/articles/using-the-api
@@ -9,8 +9,8 @@ redirect_from:
   - /enterprise/admin/overview/about-the-github-enterprise-server-api
   - /admin/overview/about-the-github-enterprise-server-api
 versions:
-  ghes: '*'
-topics:
+  ghes '*'
+topics
   - Enterprise
 shortTitle: GitHub Enterprise API
 ---
